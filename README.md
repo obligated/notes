@@ -1,6 +1,6 @@
 # notes
 
-I loved VC! The green and red lines showing all my fixes and past mistakes in a glance! Oh how I crave such diffs!
+I love VC! The green and red lines showing all my fixes and past mistakes in a glance! Oh how I crave such diffs!
 
 Unforunately, there doesn't exist an easy diff tool for writing, but plenty for code. Places like Google Drive, Draft do provide some sort of version control, but make it difficult to link it back.
 
